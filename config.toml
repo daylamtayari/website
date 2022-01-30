@@ -1,3 +1,109 @@
-baseURL = 'http://example.org/'
+# Global Options:
+title = 'Tayari'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://tayari.gg'
+canonifyURLs = true
+enableRobotsTXT = true
+enableGitInfo = false
+enableEmoji = true
+enableMissingTranslationPlaceholders = false
+disableRSS = false
+disableSitemap = false
+disable404 = false
+disableHugoGeneratorInject = false
+
+# Theme Options:
+theme = 'hello-abyss'
+
+# Content Limit:
+paginate = 10
+rssLimit = 25
+
+# Copyright:
+copyright = "All work is licensed under a Creative Commons Attribution-NonCommerical-ShareAlike 4.0 International license."
+
+# Directories:
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+# Build Settings:
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+
+# Attributes:
+
+[permalinks]
+# TODO: To complete based on the sections used.
+
+[author]
+name = "Daylam Tayari"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[taxonomies]
+# TODO: To complete based on how I setup the sections.
+
+[params]
+dateform = "January 2 2006"
+dateformShort = "Jan 2 06"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02T15:04:05-0700"
+# Metadata:
+description = "Daylam Tayari's website with blog posts, writeups and more!" #TODO: Improve.
+keywords = ""
+images = [""]
+# Home page content:
+homeSubtitle = "Security | Linux | Infrastructure" #TODO: Improve.
+# External Content:
+customCSS = []
+customJS = []
+justifyContent = true
+# Miscellaneous:
+disableReadOtherPosts = false
+enableThemeToggle = true
+enableSharingButtons = false
+[params.footer]
+trademark = true
+author = true
+copyright = "CC BY-NC-SA 4.0"
+rss = true
+topText = []
+bottomText = []
+[params.favicon.color]
+mask = "#1b1c1d"
+msapplication = "#1b1c1d"
+theme = "#1b1c1d"
+[params.logo]
+logoHomeLink = "/"
+logoMark = "$"
+logoText = "/"
+dynamic = true
+logoCursorDisabled = false
+logoCursorColor = "#aaaaaa"
+# Social Links:
+[[params.social]]
+name = "case"
+url = "https://resume.tayari.gg"
+[[params.social]]
+name = "gitlab"
+url = "https://git.tayari.gg/tayari"
+[[params.social]]
+name = "github"
+url = "https://github.com/daylamtayari"
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/tayarics"
+[[params.social]]
+name = "gpg"
+url = "https://pgp.tayari.gg"
+[[params.social]]
+name = "email"
+url = "mailto:daylam@tayari.gg"
+# Menu
+[menu]
+# TODO: To complete once the full layout/structure of the site has been decided upon.
