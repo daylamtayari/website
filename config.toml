@@ -63,9 +63,11 @@ homeSubtitle = "Security | Linux | Infrastructure" #TODO: Improve.
 customCSS = []
 customJS = []
 justifyContent = true
+# Theme:
+enableThemeToggle = true
+defaultTheme = "dark"
 # Miscellaneous:
 disableReadOtherPosts = false
-enableThemeToggle = true
 enableSharingButtons = false
 [params.footer]
 trademark = true
