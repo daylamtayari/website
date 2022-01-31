@@ -134,3 +134,7 @@ url = "guides/"
 #identifier = "talks"
 #name = "Talks"
 #url = "talks/"
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "about"
