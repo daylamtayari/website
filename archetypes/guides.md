@@ -4,8 +4,8 @@ description:
 slug: .Name
 date: {{ .Date }}
 draft: true
-toc: false
+toc: true
+images:
 tags:
 type:
 ---
-
