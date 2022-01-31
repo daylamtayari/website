@@ -20,7 +20,7 @@ paginate = 10
 rssLimit = 25
 
 # Copyright:
-copyright = "All work is licensed under a Creative Commons Attribution-NonCommerical-ShareAlike 4.0 International license."
+copyright = "CC BY-NC-SA 4.0"
 
 # Directories:
 archetypeDir = "archetypes"
@@ -58,7 +58,7 @@ description = "Daylam Tayari's website with blog posts, writeups and more!" #TOD
 keywords = ""
 images = [""]
 # Home page content:
-homeSubtitle = "Security | Linux | Infrastructure" #TODO: Improve.
+homeSubtitle = "Security | Linux | Homelab" #TODO: Improve.
 # External Content:
 customCSS = []
 customJS = []
@@ -72,7 +72,7 @@ enableSharingButtons = false
 [params.footer]
 trademark = true
 author = true
-copyright = "CC BY-NC-SA 4.0"
+copyright = true
 rss = true
 topText = []
 bottomText = []
