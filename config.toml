@@ -37,7 +37,11 @@ buildExpired = false
 # Attributes:
 
 [permalinks]
-# TODO: To complete based on the sections used.
+projects = "/projects/:section/:slug/"
+writeups = "/writeups/:section/:slug"
+articles = "/articles/:section/:slug"
+guides = "/guides/:section/:slug"
+#talks = "/talks/:slug"
 
 [author]
 name = "Daylam Tayari"
@@ -46,7 +50,9 @@ name = "Daylam Tayari"
 hrefTargetBlank = true
 
 [taxonomies]
-# TODO: To complete based on how I setup the sections.
+categories = "categories"
+tags = "tags"
+pieces = "pieces"
 
 [params]
 dateform = "January 2 2006"
@@ -108,4 +114,23 @@ name = "email"
 url = "mailto:daylam@tayari.gg"
 # Menu
 [menu]
-# TODO: To complete once the full layout/structure of the site has been decided upon.
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "projects/"
+[[menu.main]]
+identifier = "writeups"
+name = "Writeups"
+url = "writeups/"
+[[menu.main]]
+identifier = "articles"
+name = "Articles"
+url = "articles/"
+[[menu.main]]
+identifier = "guides"
+name = "Guides"
+url = "guides/"
+#[[menu.main]]
+#identifier = "talks"
+#name = "Talks"
+#url = "talks/"
