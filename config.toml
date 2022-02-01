@@ -67,7 +67,9 @@ images = [""]
 homeSubtitle = "Security | Linux | Homelab" #TODO: Improve.
 # External Content:
 customCSS = []
-customJS = []
+customJS = [
+    "analytics.js"
+]
 justifyContent = true
 # Theme:
 enableThemeToggle = true
