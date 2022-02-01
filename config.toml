@@ -109,7 +109,7 @@ url = "https://github.com/daylamtayari"
 name = "twitter"
 url = "https://twitter.com/tayarics"
 [[params.social]]
-name = "GPG"
+name = "gpg"
 url = "https://pgp.tayari.gg"
 [[params.social]]
 name = "email"
