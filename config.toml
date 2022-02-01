@@ -115,7 +115,7 @@ url = "https://pgp.tayari.gg"
 name = "email"
 url = "mailto:daylam@tayari.gg"
 [[params.social]]
-name = "KoFi"
+name = "kofi"
 url = "https://ko-fi.com/tayari"
 # Menu
 [menu]
