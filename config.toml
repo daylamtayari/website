@@ -95,7 +95,7 @@ logoCursorDisabled = false
 logoCursorColor = "#aaaaaa"
 # Social Links:
 [[params.social]]
-name = "case"
+name = "resume"
 url = "https://resume.tayari.gg"
 [[params.social]]
 name = "gitlab"
@@ -107,11 +107,14 @@ url = "https://github.com/daylamtayari"
 name = "twitter"
 url = "https://twitter.com/tayarics"
 [[params.social]]
-name = "gpg"
+name = "GPG"
 url = "https://pgp.tayari.gg"
 [[params.social]]
 name = "email"
 url = "mailto:daylam@tayari.gg"
+[[params.social]]
+name = "KoFi"
+url = "https://ko-fi.com/tayari"
 # Menu
 [menu]
 [[menu.main]]
