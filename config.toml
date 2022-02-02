@@ -41,7 +41,7 @@ projects = "/projects/:section/:slug/"
 writeups = "/writeups/:section/:slug"
 articles = "/articles/:section/:slug"
 guides = "/guides/:section/:slug"
-#talks = "/talks/:slug"
+talks = "/talks/:slug"
 
 [author]
 name = "Daylam Tayari"
@@ -149,10 +149,10 @@ url = "articles/"
 identifier = "guides"
 name = "Guides"
 url = "guides/"
-#[[menu.main]]
-#identifier = "talks"
-#name = "Talks"
-#url = "talks/"
+[[menu.main]]
+identifier = "talks"
+name = "Talks"
+url = "talks/"
 [[menu.main]]
 identifier = "about"
 name = "About"
