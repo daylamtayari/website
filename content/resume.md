@@ -4,7 +4,7 @@ description: Daylam Tayari's resume
 slug: resume
 date: 2022-02-01T08:45:52-07:00
 draft: true
-toc: false
+toc: true
 ---
 <br/>
 
@@ -31,8 +31,6 @@ I also remain active in an advisory position for ASU Esports Counter-Strike team
 Thanks to my past interest in gaming, I learned about the livestreaming platform Twitch and started building minor tools for the community. When a major copyright restriction crisis hit the platform, developed a tool which aided streamers in the handling of their content including allowing them to recover 'purged' content which has gained over **100,000+ downloads** (<a href="#twitchrecover">More details</a>). Building this tool introduced me to Twitch's' **GraphQL API** and due to them still having public introspection fully enabled, started tracking its changes which included the implementation of new features which were only publicly implemented month later. By monitoring the changes on a regular basis, I was able to discover and announce the introduction of a 'brand safety score' which proved highly controversial leading to the posts alone getting **millions of impressions** and numerous articles about it in various publications.
 
 I am originally from the suburbs of Paris, France and moved around a lot growing up so am fully bilingual in French (natively) and English, having pursued the majority of my education in English academic systems.
-
-**<a href="#contact">Scroll down here to contact me!</a>**
 
 
 ## Skills:
