@@ -26,6 +26,10 @@ I also am an active member of **ASU's Linux User's Group (ASULUG)** where we hol
 
 Whenever I am able to, I also attend talks hosted by PHX2600, Phoenix's 2600 group which hosts a wide variety of interesting talks from demonstrations of some of the first digital computers to talks on cybersecurity and lock picking.
 
+I also remain active in an advisory position for ASU Esports Counter-Strike team having previously played on the varsity team and ranked as one of the best North American players playing competitvely on numerous teams before I decided to fully dedicate all my focus to cybersecurity and my career.
+
+Thanks to my past interest in gaming, I learned about the livestreaming platform Twitch and started building minor tools for the community. When a major copyright restriction crisis hit the platform, developed a tool which aided streamers in the handling of their content including allowing them to recover 'purged' content which has gained over **100,000+ downloads** (<a href="#twitchrecover">More details</a>). Building this tool introduced me to Twitch's' **GraphQL API** and due to them still having public introspection fully enabled, started tracking its changes which included the implementation of new features which were only publicly implemented month later. By monitoring the changes on a regular basis, I was able to discover and announce the introduction of a 'brand safety score' which proved highly controversial leading to the posts alone getting **millions of impressions** and numerous articles about it in various publications.
+
 I am originally from the suburbs of Paris, France and moved around a lot growing up so am fully bilingual in French (natively) and English, having pursued the majority of my education in English academic systems.
 
 **<a href="#contact">Scroll down here to contact me!</a>**
@@ -88,6 +92,13 @@ I am originally from the suburbs of Paris, France and moved around a lot growing
 </div>
 
 
+## Relevant Experience:
+
+### Bishop Fox - Incoming Security Consultant 1 (May 2022)
+
+Incoming penetration tester intern at Bishop Fox, starting in May 2022.
+
+
 ## Projects:
 
 ### Nmap2Tex (December 2021 - Present):
@@ -111,7 +122,7 @@ I am originally from the suburbs of Paris, France and moved around a lot growing
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Microsoft-To-Do-Export&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Microsoft-To-Do-Export)
 
-### Twitch Recover (December 2020 - Present):
+<h3 id="twitchrecover">Twitch Recover (December 2020 - Present):</h3>
 
 - Following a copyright restriction crisis on a popular live streaming platform, developed a tool that has **over 100,000+ downloads** that allows users to better manage and recover their video content.
 - Built in Java and utilizes REST and GraphQL APIs to retrieve and feed video content to end users.
