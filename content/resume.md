@@ -28,6 +28,8 @@ Whenever I am able to, I also attend talks hosted by PHX2600, Phoenix's 2600 gro
 
 I am originally from the suburbs of Paris, France and moved around a lot growing up so am fully bilingual in French (natively) and English, having pursued the majority of my education in English academic systems.
 
+**<a href="#contact">Scroll down here to contact me!</a>**
+
 
 ## Skills:
 
@@ -148,6 +150,8 @@ Created an extensive blocklist for the DNS sinkhole Pi-Hole, compiled from numer
 
 
 <br/>
+
+<h2 id="contact">Contact Me:</h2>
 
 #### If you want to reach out to me about a professional matter, feel free to email me at:
 #### [daylamtayari@tayari.gg](mailto:daylamtayari.gg)
