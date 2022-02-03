@@ -20,9 +20,9 @@ I am an avid supporter of open source software and a privacy advocate, helping i
 
 Ever since joining local infosec and Linux communities and being welcomed with open arms, I have thrived in them, introducing numerous people to them and even getting elected to positions of leadership in some of them.
 
-After being an active member of Devilsec, ASU's cybersecurity club which holds weekly presentations with workshops and competes in national collegiate cybersecurity competitions, for numerous years, I was recently elected to vice president and have since helped push the club forward encouraging more interactive workshops and building a CTF platform for the club.
+After being an active member of **Devilsec**, **ASU's cybersecurity club** which holds weekly presentations with workshops and competes in national collegiate cybersecurity competitions, for numerous years, I was recently elected to **vice president** and have since helped push the club forward encouraging more interactive workshops and **building a CTF platform** for the club.
 
-I also am an active member of ASU's Linux User's Group (ASULUG) where we hold weekly events from installfests to hosting presentations on a myriad of topics, on top of being a welcoming community to ASU students, helping them setting up and configuring their Linux installations.
+I also am an active member of **ASU's Linux User's Group (ASULUG)** where we hold weekly events from installfests to hosting presentations on a myriad of topics, on top of being a welcoming community to ASU students, helping them setting up and configuring their Linux installations.
 
 Whenever I am able to, I also attend talks hosted by PHX2600, Phoenix's 2600 group which hosts a wide variety of interesting talks from demonstrations of some of the first digital computers to talks on cybersecurity and lock picking.
 
