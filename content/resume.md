@@ -6,9 +6,7 @@ date: 2022-02-01T08:45:52-07:00
 draft: true
 toc: true
 ---
-<br/>
-
-### [Click here to view my resume in PDF form!](https://git.tayari.gg/tayari/Resume/-/raw/master/resume.pdf?inline=true)
+## [Click here to view my resume in PDF form!](https://git.tayari.gg/tayari/Resume/-/raw/master/resume.pdf?inline=true)
 
 
 ## About Me:
