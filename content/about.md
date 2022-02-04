@@ -141,7 +141,7 @@ On this site there are hyperlinks provided to external sites and while the owner
 ## License
 
 This site and all of its contents are copyright exclusively to Daylam Tayari unless explicitly mentioned otherwise.<br/>
-This site and all of its contents are also licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0) of which the full license text can be accessed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" target="_blank">here on the official Creative Commons website</a>.
+This site and all of its contents are also licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license of which the full license text can be accessed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" target="_blank">here on the official Creative Commons website</a>.
 
 
 ## Privacy Policy
