@@ -9,7 +9,7 @@ toc: true
 
 ## Introduction:
 
-Welcome! This is my personal website where I post about anything from the myriad of topics that interest though as someone who is passionate about cybersecurity and the GNU/Linux ecosystem, those are primarily what the content of this site is going to revolve around.<br/>
+**Welcome!** This is my personal website where I post about anything from the myriad of topics that interest though as someone who is passionate about cybersecurity and the GNU/Linux ecosystem, those are primarily what the content of this site is going to revolve around.<br/>
 Nonetheless, I will certainly cover other matters that I particularly care about such as privacy, open source and free software, Qubes OS, digital rights, right to repair, self-hosting and setting up a homelab, geopolitics and more.
 
 Here I will be posting everything from articles and opinion pieces to detailed posts about my projects, writeups, and guides on any topic of interest. You will also be able to find the recording and slides and/or notes of any talk or presentation I host.
@@ -17,12 +17,14 @@ Here I will be posting everything from articles and opinion pieces to detailed p
 **Disclaimer:** All views and opinions expressed here belong solely to the owner and does not represent those of any other individual or entity the owner is in any capacity affiliated with. All information is provided solely for education purposes and is ensured to be accurate to the best effort of the owner.<br/>
 **<a href="#disclaimer">Please click here or scroll down to view the full disclaimer of this site.</a>**
 
+**If you are interested in my professional services or career, <a href="/resume">please click here to view my resume!</a>**
+
 See below for further details about me and what to expect out of each section!
 
 
 ## About Me:
 
-Hello! I am Daylam Tayari though I go by 'tayari' online. I am a current junior cybersecurity student at Arizona State University and incoming security consultant 1 at Bishop Fox where I will be a penetration testing intern.<br/>
+Hello! I am Daylam Tayari though I go by 'tayari' online. I am a current junior cybersecurity student at Arizona State University and incoming security consultant 1 at Bishop Fox where I will be a penetration testing intern, starting in May of 2022.<br/>
 I am the Vice-President ASU's cybersecurity club, Devilsec with which I also compete in collegiate cybersecurity competitions such as in the National CCDC and an active member of the ASU's Linux User's Group.<br/>
 
 I am an avid proponent of individual digital rights, pushing not only for users having control over their data but also having independence from services, encouraging competition including the existence of open source alternatives which are fully accessible to users and can be self-hosted with relative ease.<br/>
