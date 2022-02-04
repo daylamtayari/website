@@ -6,7 +6,7 @@ date: 2022-02-01T08:45:52-07:00
 draft: false
 toc: true
 ---
-## [Click here to view my resume in PDF form!](https://git.tayari.gg/tayari/Resume/-/raw/master/resume.pdf?inline=true)
+## <a href="https://git.tayari.gg/tayari/Resume/-/raw/master/resume.pdf?inline=true" target="_blank">Click here to view my resume in PDF form!</a>
 
 
 ## About Me
@@ -104,7 +104,7 @@ Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 - Supports including users in the network inventory.
 - Allows for the input of Nmap vulnerability scans resulting in tables displaying all the CVEs present on hosts and correspondingly rating and colour coding how vulnerable a host is.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Nmap2Tex&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Nmap2Tex)
+<a href="https://github.com/daylamtayari/Nmap2Tex" target="_blank">![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Nmap2Tex&show_icons=true&theme=great-gatsby)</a>
 
 ### Curated ICO (August 2021 - Present)
 
@@ -117,7 +117,7 @@ Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 - Frustrated by a total lack of any export solutions for the Microsoft To-Do program, devised and developed a custom solution that exports all task lists into a format compatible to be imported directly into other task management applications.
 - Developed in Java and utilizes REST APIs to retrieve the task lists which are then converted into the appropriate CSV and JSON formats in order to ensure compatibility with other task management applications.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Microsoft-To-Do-Export&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Microsoft-To-Do-Export)
+<a href="https://github.com/daylamtayari/Microsoft-To-Do-Export" target="_blank">![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Microsoft-To-Do-Export&show_icons=true&theme=great-gatsby)</a>
 
 
 <p id="twitchrecover"></p>
@@ -128,13 +128,13 @@ Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 - Built in Java and utilizes REST and GraphQL APIs to retrieve and feed video content to end users.
 - **Resolved hundreds of user tickets**, performing the relevant support and issue remediation.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwitchRecover&repo=TwitchRecover&show_icons=true&theme=great-gatsby)](https://github.com/TwitchRecover/TwitchRecover)
+<a href="https://github.com/TwitchRecover/TwitchRecover" target="_blank">![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwitchRecover&repo=TwitchRecover&show_icons=true&theme=great-gatsby)</a>
 
 ### Discord Bots
 
 For various reasons, I have created numerous Discord bots, built in JavaScript using NodeJS and the `Discord.js` NPM package.
-- [Topic Bot](https://git.tayari.gg/tayari/Topic-Bot): Discord bot which following a particular message being sent in chat, posts a topic or conversation prompt, taken from a given list of prompts. Also allows users to both control the bot and add new prompts directly through Discord, allowing them to not have to go manually edit the files every time.
-- [Discord Embedder](https://git.tayari.gg/tayari/discord-embedder): Discord bot which takes in a given input and creates and posts the content in an embed format.
+- <a href="https://git.tayari.gg/tayari/Topic-Bot" target="_blank">Topic Bot</a>: Discord bot which following a particular message being sent in chat, posts a topic or conversation prompt, taken from a given list of prompts. Also allows users to both control the bot and add new prompts directly through Discord, allowing them to not have to go manually edit the files every time.
+- <a href="https://git.tayari.gg/tayari/discord-embedder" target="_blank">Discord Embedder</a>: Discord bot which takes in a given input and creates and posts the content in an embed format.
 
 ### Homelab (September 2020 - Present)
 
@@ -150,13 +150,13 @@ For various reasons, I have created numerous Discord bots, built in JavaScript u
 - Includes bash scripts which allow for the automated configuration and installing of dependencies, automatically adjusting to the system and it's package manager.
 - A constant work in progress.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=dotfiles&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/dotfiles)
+<a href="https://github.com/daylamtayari/dotfiles" target="_blank">![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=dotfiles&show_icons=true&theme=great-gatsby)</a>
 
 ### Pi-Hole Blocklist (June 2020 - Present)
 
 Created an extensive blocklist for the DNS sinkhole Pi-Hole, compiled from numerous other blocklists and then further customised by myself which is actively used by numerous people and has been the source of inspiration for many others..
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Pi-Hole-Blocklist&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Pi-Hole-Blocklist)
+<a href="https://github.com/daylamtayari/Pi-Hole-Blocklist" target="_blank">![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Pi-Hole-Blocklist&show_icons=true&theme=great-gatsby)</a>
 
 
 <p id="contact"></p>
@@ -167,6 +167,6 @@ Created an extensive blocklist for the DNS sinkhole Pi-Hole, compiled from numer
 **[daylamtayari@tayari.gg](mailto:daylamtayari.gg)**
 
 While not mandatory, I highly advise anyone emailing me to use PGP key encryption.<br/>
-The public key for the above email can be found at [https://pgp.tayari.gg](https://pgp.tayari.gg) and when sending your email, please attach your public key to allow me to also respond in an encrypted fashion.
+The public key for the above email can be found at <a href="https://pgp.tayari.gg" target="_blank">https://pgp.tayari.gg</a> and when sending your email, please attach your public key to allow me to also respond in an encrypted fashion.
 
 This email is **exclusively for professional matters**, if it is not a professional matter please use the contact information provided in <a href="/about#contact">about page</a>.

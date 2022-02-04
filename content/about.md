@@ -30,7 +30,7 @@ I am the Vice-President ASU's cybersecurity club, Devilsec with which I also com
 I am an avid proponent of individual digital rights, pushing not only for users having control over their data but also having independence from services, encouraging competition including the existence of open source alternatives which are fully accessible to users and can be self-hosted with relative ease.<br/>
 As such many of its overarching topics and themes will be discussed here, everything from privacy to right to repair and open source and free software.<br/>
 
-**Note:** Whenever I use the term 'free software', I use it as defined by the Free Software Foundation, software that "the users have the freedom to run, copy, distribute, study, change and improve the software" ([Free Software Foundation definition of free software](http://www.gnu.org/philosophy/free-sw.html)). I do not use it to mean a piece of software that is at no charge to the user, for such I will use the term 'gratis'.
+**Note:** Whenever I use the term 'free software', I use it as defined by the Free Software Foundation, software that "the users have the freedom to run, copy, distribute, study, change and improve the software" (<a href="Free Software Foundation definition of free software" target="_blank">Free Software Foundation definition of free software</a>). I do not use it to mean a piece of software that is at no charge to the user, for such I will use the term 'gratis'.
 
 As someone who prefers to self-host the majority of what I use on the regular, I have an extensive homelab which is also ever-growing as I constantly discover new things that I would be interested in using and/or hosting and as I expand my storing capacity as truth to be told I am a data hoarder and got numerous minor personal projects for things that I want to do with the data. <br/>
 Self-hosting and topics on setting up a homelab or learning to deploy a variety of software, including enterprise software will be a prominent aspect of this site.<br/>
@@ -76,7 +76,7 @@ In the case a specific talk or presentation is not licensed in the same way as t
 
 Here I will be posting my writeups, the majority of which will be postmortem writeups on everything from a cybersecurity competition to a CTF but also labs on platforms such as HackTheBox.
 
-Since I also occasionally host my own mini CTFs or competitions, I will also post the writeups for them however, those will all be with the tag <a href="/tags/organised">organised</a> and if applicable, will be posted in the subsection of the respective club or association this was organised for.
+Since I also occasionally host my own mini CTFs or competitions, I will also post the writeups for them however, those will all be with the tag <a href="/tags/organised" target="_blank">organised</a> and if applicable, will be posted in the subsection of the respective club or association this was organised for.
 
 If ever applicable, I may also post writeups about specific real world situations which I am both able to disclose and were a good learning experience.
 
@@ -87,9 +87,9 @@ If ever applicable, I may also post writeups about specific real world situation
 If you wish to contact me, please do so via email to [daylam@tayari.gg](mailto:daylam@tayari.gg).<br/>
 
 While not mandatory, I highly advise anyone emailing me to use PGP key encryption.<br/>
-The public key for the above email can be found at [https://pgp.tayari.gg](https://pgp.tayari.gg) and when sending your email, please attach your public key to allow me to also respond in an encrypted fashion.
+The public key for the above email can be found at <a href="https://pgp.tayari.gg" target="_blank">https://pgp.tayari.gg</a> and when sending your email, please attach your public key to allow me to also respond in an encrypted fashion.
 
-If you wish to contact me concerning **professional matters, please DO NOT use this email** and use my professional email which you can find in the <a href="/resume/#contact">contact section of my resume page</a>.
+If you wish to contact me concerning **professional matters, please DO NOT use this email** and use my professional email which you can find in the <a href="/resume/#contact" target="_blank">contact section of my resume page</a>.
 
 ## Support Me
 
@@ -97,7 +97,7 @@ If you enjoy my work and wish to support me you can tip me on Ko-Fi!
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/tayari)
 
 You can also support me in the following ways
-- PayPal donations [https://paypal.me/daylamtayari](https://paypal.me/daylamtayari)
+- PayPal donations <a href="https://paypal.me/daylamtayari" target="_blank">https://paypal.me/daylamtayari</a>
 - Bitcoin `15KcKrsqW6DQdyZPrgRXXmsKkyyZzHAQVX`
 
 If you want to support me in some other mean, please contact me.
@@ -108,22 +108,22 @@ If you want to support me in some other mean, please contact me.
 ### RSS Feed
 
 All the posts on this website are accessible via an RSS feed.<br/>
-To view it or add it to an RSS feed reader, please visit this URL [https://tayari.gg/index.xml](https://tayari.gg/index.xml).
+To view it or add it to an RSS feed reader, please visit this URL <a href="https://tayari.gg/index.xml" target="_blank">https://tayari.gg/index.xml</a>.
 
 ### Socials
 
 I have the following social medias that you can follow me on though I am solemn active on all of them though I am trying to be more active on Twitter.
 
-<a href="https://twitter.com/tayarics">![Twitter Badge](https://img.shields.io/badge/tayarics-1DA1F2?style=for-the-badge&labelColor=black&logo=twitter&logoColor=white)</a><br/>
-<a href="https://www.youtube.com/channel/UCYGRbVfYaabtwyzrv4pGo6g">![YouTube Badge](https://img.shields.io/badge/tayari-FF0000?style=for-the-badge&labelColor=black&logo=youtube&logoColor=white)</a><br/>
-<a href="https://twitch.tv/tayarics">![Twitch Badge](https://img.shields.io/badge/tayarics-9146FF?style=for-the-badge&labelColor=black&logo=twitch&logoColor=white)</a><br/>
+<a href="https://twitter.com/tayarics" target="_blank">![Twitter Badge](https://img.shields.io/badge/tayarics-1DA1F2?style=for-the-badge&labelColor=black&logo=twitter&logoColor=white)</a><br/>
+<a href="https://www.youtube.com/channel/UCYGRbVfYaabtwyzrv4pGo6g" taget="_blank">![YouTube Badge](https://img.shields.io/badge/tayari-FF0000?style=for-the-badge&labelColor=black&logo=youtube&logoColor=white)</a><br/>
+<a href="https://twitch.tv/tayarics" target="_blank">![Twitch Badge](https://img.shields.io/badge/tayarics-9146FF?style=for-the-badge&labelColor=black&logo=twitch&logoColor=white)</a><br/>
 
 ### Git Instances
 
 My public repositories can be accessible at the following public Git instances
-- Personal GitLab instance [https://git.tayari.gg/tayari](https://git.tayari.gg/tayari) - Origin for all my personal repositories and contains some of my non-personal repositories.
-- GitHub [https://github.com/daylamtayari](https://github.com/daylamtayari) - Some non-personal repositories and a mirror of all my personal repositories.
-- GitLab [https://gitlab.com/daylamtayari](https://gitlab.com/daylamtayari) - Mirror of all my personal repositories.
+- Personal GitLab instance <a href="https://git.tayari.gg/tayari" target="_blank">https://git.tayari.gg/tayari</a> - Origin for all my personal repositories and contains some of my non-personal repositories.
+- GitHub <a href="https://github.com/daylamtayari" target="_blank">https://github.com/daylamtayari</a> - Some non-personal repositories and a mirror of all my personal repositories.
+- GitLab <a href="https://gitlab.com/daylamtayari" target="_blank">https://gitlab.com/daylamtayari</a> - Mirror of all my personal repositories.
 
 <p id="disclaimer"></p>
 
@@ -141,7 +141,7 @@ On this site there are hyperlinks provided to external sites and while the owner
 ## License
 
 This site and all of its contents are copyright exclusively to Daylam Tayari unless explicitly mentioned otherwise.<br/>
-This site and all of its contents are also licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0) of which the full license text can be accessed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">here on the official Creative Commons website</a>.
+This site and all of its contents are also licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (CC BY-NC-SA 4.0) of which the full license text can be accessed <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode" target="_blank">here on the official Creative Commons website</a>.
 
 
 ## Privacy Policy
