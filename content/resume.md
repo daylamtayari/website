@@ -119,7 +119,10 @@ Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Microsoft-To-Do-Export&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Microsoft-To-Do-Export)
 
-<h3 id="twitchrecover">Twitch Recover (December 2020 - Present):</h3>
+
+<p id="twitchrecover"></p>
+
+### Twitch Recover (December 2020 - Present):
 
 - Following a copyright restriction crisis on a popular live streaming platform, developed a tool that has **over 100,000+ downloads** that allows users to better manage and recover their video content.
 - Built in Java and utilizes REST and GraphQL APIs to retrieve and feed video content to end users.
@@ -156,10 +159,9 @@ Created an extensive blocklist for the DNS sinkhole Pi-Hole, compiled from numer
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Pi-Hole-Blocklist&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Pi-Hole-Blocklist)
 
 
+<p id="contact"></p>
 
-<br/>
+## Contact Me:
 
-<h2 id="contact">Contact Me:</h2>
-
-#### If you want to reach out to me about a professional matter, feel free to email me at:
-#### [daylamtayari@tayari.gg](mailto:daylamtayari.gg)
+**If you want to reach out to me about a professional matter, feel free to email me at:**
+**[daylamtayari@tayari.gg](mailto:daylamtayari.gg)**
