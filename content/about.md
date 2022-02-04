@@ -144,3 +144,15 @@ This site and all of its contents are also licensed under the Creative Commons A
 
 This website does not collect any personally identifiable information on any of its users and is fully compliant with GDPR, PECR, CCPA and CalOPPA.<br/>
 While this website does track analytics, it also does not collect any personally identifiable information and is also fully compliant with GDPR, PECR, CCPA and CalOPPA. Additionally, the analytics are stored on a website and server which the site owner hosts and has full control over.<br/>
+
+
+## JavaScript Usage:
+
+This website has been designed with JavaScript not being a requirement in mind.<br/>
+JavaScript is not required in any capacity for this site with the exception of the theme switching.<br/>
+
+This website is **fully compatible with NoScript** or any other JavaScript blocking addons or tools.
+
+JavaScript is only used on this site for two entirely optional uses:
+- Alternating the theme from its default dark theme to its light theme.
+- External analytics JavaScript script to collect non personally identifiable information. Please see the privacy policy on this page for more details.
