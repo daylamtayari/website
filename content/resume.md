@@ -11,14 +11,15 @@ toc: true
 
 ## About Me:
 
-I am Daylam Tayari, a junior cybersecurity college student at Arizona State University and upcoming penetration testing intern at Bishop Fox who is currently based in Phoenix, Arizona, United States.
-In my free time, I love working on various open source projects, encriching my cybersecurity skills, maintaining and improving my homelab and diving deeper in the Linux ecosystem.
+I am Daylam Tayari, a junior cybersecurity college student at Arizona State University and incoming penetration testing intern at Bishop Fox who is currently based in Phoenix, Arizona, United States.<br/>
+In my free time, I love working on various open source projects, enriching my cybersecurity skills, maintaining and improving my homelab and diving deeper in the Linux ecosystem.
 
 I am an avid supporter of open source software and a privacy advocate, helping introduce people to better ways of protecting their personal privacy.
 
 Ever since joining local infosec and Linux communities and being welcomed with open arms, I have thrived in them, introducing numerous people to them and even getting elected to positions of leadership in some of them.
 
-After being an active member of **Devilsec**, **ASU's cybersecurity club** which holds weekly presentations with workshops and competes in national collegiate cybersecurity competitions, for numerous years, I was recently elected to **vice president** and have since helped push the club forward encouraging more interactive workshops and **building a CTF platform** for the club.
+After being an active member of **Devilsec**, **ASU's cybersecurity club** which holds weekly presentations with workshops and competes in national collegiate cybersecurity competitions, for numerous years, I was recently elected to **Vice-President** and have since helped push the club forward encouraging more interactive workshops and **building a CTF platform** for the club.<br/>
+I also compete with Devilsec in collegiate cybersecurity competitions such as in the **National CCDC**.
 
 I also am an active member of **ASU's Linux User's Group (ASULUG)** where we hold weekly events from installfests to hosting presentations on a myriad of topics, on top of being a welcoming community to ASU students, helping them setting up and configuring their Linux installations.
 
@@ -92,7 +93,7 @@ I am originally from the suburbs of Paris, France and moved around a lot growing
 
 ### Bishop Fox - Incoming Security Consultant 1 (May 2022)
 
-Incoming penetration tester intern at Bishop Fox, starting in May 2022.
+Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 
 
 ## Projects:
