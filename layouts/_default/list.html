@@ -27,12 +27,12 @@
             {{ range .Pages }}
             <li class="post-item">
                 <a href="{{.Permalink}}">
-                    <span class="post-title">{{.Title}}</span>
-                    <span class="post-day">
-                        {{ if .Site.Params.dateformShort }}
-                        {{ .Date.Format .Site.Params.dateformShort }}
+                    <span class="post-title" style="font-size: x-large;">{{.Title}}</span>
+                    <span class="post-day" style="font-size: large;">
+                        {{ if .Site.Params.dateform }}
+                        {{ .Date.Format .Site.Params.dateform }}
                         {{ else }}
-                        {{ .Date.Format "Jan 2"}}
+                        {{ .Date.Format "January 2 2006"}}
                         {{ end }}
                     </span>
                 </a>
