@@ -1,7 +1,7 @@
 # Global Options:
 title = 'Tayari'
 languageCode = 'en-us'
-baseURL = 'https://tayari.gg'
+baseURL = 'https://tayari.gg/'
 canonifyURLs = true
 enableRobotsTXT = true
 enableGitInfo = false
