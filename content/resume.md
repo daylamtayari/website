@@ -3,13 +3,13 @@ title: "Resume"
 description: Daylam Tayari's resume
 slug: resume
 date: 2022-02-01T08:45:52-07:00
-draft: true
+draft: false
 toc: true
 ---
 ## [Click here to view my resume in PDF form!](https://git.tayari.gg/tayari/Resume/-/raw/master/resume.pdf?inline=true)
 
 
-## About Me:
+## About Me
 
 I am Daylam Tayari, a junior cybersecurity college student at Arizona State University and incoming penetration testing intern at Bishop Fox who is currently based in Phoenix, Arizona, United States.<br/>
 In my free time, I love working on various open source projects, enriching my cybersecurity skills, maintaining and improving my homelab and diving deeper in the Linux ecosystem.
@@ -32,9 +32,9 @@ Thanks to my past interest in gaming, I learned about the livestreaming platform
 I am originally from the suburbs of Paris, France and moved around a lot growing up so am fully bilingual in French (natively) and English, having pursued the majority of my education in English academic systems.
 
 
-## Skills:
+## Skills
 
-### Programming Languages:
+### Programming Languages
 
 <div style="display:inline-block">
 <embed src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white">
@@ -45,7 +45,7 @@ I am originally from the suburbs of Paris, France and moved around a lot growing
 <embed src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white">
 </div>
 
-### Miscellaneous Languages:
+### Miscellaneous Languages
 
 <div style="display:inline-block">
 <embed src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white">
@@ -54,7 +54,7 @@ I am originally from the suburbs of Paris, France and moved around a lot growing
 <embed src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white">
 </div>
 
-### Technologies:
+### Technologies
 
 <div style="display:inline-block">
 <embed src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white">
@@ -70,7 +70,7 @@ I am originally from the suburbs of Paris, France and moved around a lot growing
 <embed src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&labelColor=black&logo=openvpn&logoColor=white">
 </div>
 
-### Tools:
+### Tools
 
 <div style="display:inline-block">
 <embed src="https://img.shields.io/badge/Nmap-220a37?style=for-the-badge&labelColor=#220a37&logo=">
@@ -79,7 +79,7 @@ I am originally from the suburbs of Paris, France and moved around a lot growing
 <embed src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&labelColor=black&logo=wireshark&logoColor=white">
 </div>
 
-### Miscellaneous:
+### Miscellaneous
 
 <div style="display:inline-block">
 <embed src="https://img.shields.io/badge/GNU/Linux-F05032?style=for-the-badge&labelColor=black&logo=linux&logoColor=white">
@@ -89,16 +89,16 @@ I am originally from the suburbs of Paris, France and moved around a lot growing
 </div>
 
 
-## Relevant Experience:
+## Relevant Experience
 
 ### Bishop Fox - Incoming Security Consultant 1 (May 2022)
 
 Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 
 
-## Projects:
+## Projects
 
-### Nmap2Tex (December 2021 - Present):
+### Nmap2Tex (December 2021 - Present)
 
 - Developed a tool which automatically takes in outputs from Nmap scans and converts them into nicely formatted network diagrams in LaTeX.
 - Supports including users in the network inventory.
@@ -106,13 +106,13 @@ Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=Nmap2Tex&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/Nmap2Tex)
 
-### Curated ICO (August 2021 - Present):
+### Curated ICO (August 2021 - Present)
 
 - After identifying a need in the cryptocurrency space, developing a data aggregation and analysis platform in a coordinated team environment to assist investors in discovering new but trustworthy cryptocurrencies by detecting specific patterns and scoring them accordingly.
 - Designed and deployed a PostgreSQL database paired with a correlating GraphQL API in order to store large collections of financial data and allow for their **retrieval in less than 0.1ms**.
 - Developed an automated data retrieval tool with a **runtime of 9.5ms** that fetches financial data on cryptocurrencies via APIs and inputs them into a database using a GraphQL API to perform historical analysis.
 
-### To-Do Export (February 2021):
+### To-Do Export (February 2021)
 
 - Frustrated by a total lack of any export solutions for the Microsoft To-Do program, devised and developed a custom solution that exports all task lists into a format compatible to be imported directly into other task management applications.
 - Developed in Java and utilizes REST APIs to retrieve the task lists which are then converted into the appropriate CSV and JSON formats in order to ensure compatibility with other task management applications.
@@ -122,7 +122,7 @@ Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 
 <p id="twitchrecover"></p>
 
-### Twitch Recover (December 2020 - Present):
+### Twitch Recover (December 2020 - Present)
 
 - Following a copyright restriction crisis on a popular live streaming platform, developed a tool that has **over 100,000+ downloads** that allows users to better manage and recover their video content.
 - Built in Java and utilizes REST and GraphQL APIs to retrieve and feed video content to end users.
@@ -130,13 +130,13 @@ Incoming penetration testing intern at Bishop Fox, starting in May 2022.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwitchRecover&repo=TwitchRecover&show_icons=true&theme=great-gatsby)](https://github.com/TwitchRecover/TwitchRecover)
 
-### Discord Bots:
+### Discord Bots
 
 For various reasons, I have created numerous Discord bots, built in JavaScript using NodeJS and the `Discord.js` NPM package.
 - [Topic Bot](https://git.tayari.gg/tayari/Topic-Bot): Discord bot which following a particular message being sent in chat, posts a topic or conversation prompt, taken from a given list of prompts. Also allows users to both control the bot and add new prompts directly through Discord, allowing them to not have to go manually edit the files every time.
 - [Discord Embedder](https://git.tayari.gg/tayari/discord-embedder): Discord bot which takes in a given input and creates and posts the content in an embed format.
 
-### Homelab (September 2020 - Present):
+### Homelab (September 2020 - Present)
 
 - Deployed a full infrastrucutre in Proxmox with numerous virtual machines and Docker containers containing a large variety of self-hosted services, all hidden behind a reverse-proxy which correctly points requests to the respective instances.
 - Configured and deployed my own mail server which is fully self-hosted and self-managed including hardening both the mail server itself and my mail protocols such as by adding MTA-STS records.
@@ -144,7 +144,7 @@ For various reasons, I have created numerous Discord bots, built in JavaScript u
 - Continuously advancing my skills by maintaining the whole infrastructure, from simple monitoring and updating to vulnerability mitigation and patching configuration issues.
 - Advance my skills in cybersecurity by having setup numerous vulnerable environments to practice upon.
 
-### Dotfiles (September 2021 - Present):
+### Dotfiles (September 2021 - Present)
 
 - My system configurations which include expansive configuration files for a large variety of tools and programs that I regularly use.
 - Includes bash scripts which allow for the automated configuration and installing of dependencies, automatically adjusting to the system and it's package manager.
@@ -152,7 +152,7 @@ For various reasons, I have created numerous Discord bots, built in JavaScript u
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=daylamtayari&repo=dotfiles&show_icons=true&theme=great-gatsby)](https://github.com/daylamtayari/dotfiles)
 
-### Pi-Hole Blocklist (June 2020 - Present):
+### Pi-Hole Blocklist (June 2020 - Present)
 
 Created an extensive blocklist for the DNS sinkhole Pi-Hole, compiled from numerous other blocklists and then further customised by myself which is actively used by numerous people and has been the source of inspiration for many others..
 
@@ -161,7 +161,12 @@ Created an extensive blocklist for the DNS sinkhole Pi-Hole, compiled from numer
 
 <p id="contact"></p>
 
-## Contact Me:
+## Contact Me
 
-**If you want to reach out to me about a professional matter, feel free to email me at:**
+**If you want to reach out to me about a professional matter, feel free to email me at**
 **[daylamtayari@tayari.gg](mailto:daylamtayari.gg)**
+
+While not mandatory, I highly advise anyone emailing me to use PGP key encryption.<br/>
+The public key for the above email can be found at [https://pgp.tayari.gg](https://pgp.tayari.gg) and when sending your email, please attach your public key to allow me to also respond in an encrypted fashion.
+
+This email is **exclusively for professional matters**, if it is not a professional matter please use the contact information provided in <a href="/about#contact">about page</a>.
