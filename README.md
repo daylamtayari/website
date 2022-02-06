@@ -3,7 +3,7 @@
 
 **Welcome to my personal website's repository!**
 
-This contains all the source code and content of my personal website - [https://tayari.gg](htttps://tayari.gg).
+This contains all the source code and content of my personal website - [https://tayari.gg](https://tayari.gg).
 
 
 ## Licensing:
