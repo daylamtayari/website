@@ -32,6 +32,7 @@ Version 0.1 is the initial version of the program and it's version number will c
 - [GitHub Mirror](https://github.com/daylamtayari/Nmap2Tex/releases/tag/v0.1)
 
 <br/>
+
 **This is not a guide on how to install and use Nmap2Tex, please check my upcoming guide or the `README.md` on the project page.**
 
 
@@ -113,9 +114,10 @@ Thank you very much and I truly hope that this tool has being able to be useful!
 
 
 ### Repositories:
-- [git.tayari.gg](https://git.tayari.gg/tayari/nmap2tex)
-- [GitHub.com](https://github.com/daylamtayari/Nmap2Tex)
+- [git.tayari.gg/tayari/Nmap2Tex](https://git.tayari.gg/tayari/nmap2tex)
+- [GitHub.com/daylamtayari/Nmap2Tex](https://github.com/daylamtayari/Nmap2Tex)
 
 <br/>
-If you would like to help support me financially, any tips are greatly appreciated and absolutely not necessry.<br/>
-[https://ko-fi.com/tayari](https://ko-fi.com/tayari)
+If you would like to help support me financially, any tips are greatly appreciated and absolutely not necessary.<br/>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6AA059)
