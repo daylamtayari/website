@@ -37,8 +37,6 @@ buildExpired = false
 # Attributes:
 
 [permalinks]
-projects = "/projects/:section/:slug/"
-writeups = "/writeups/:section/:slug"
 articles = "/articles/:section/:slug"
 guides = "/guides/:section/:slug"
 talks = "/talks/:slug"
@@ -72,11 +70,11 @@ dateformShort = "Jan 2 06"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02T15:04:05-0700"
 # Metadata:
-description = "Daylam Tayari's website with everything from articles to guides, writeups and talks on anything from cybersecurity to Linux and digital rights."
+description = "Daylam Tayari :: Security | Linux"
 keywords = ""
 images = [""]
 # Home page content:
-homeSubtitle = "Security | Linux | Privacy"
+homeSubtitle = "Security | Linux"
 # External Content:
 customCSS = []
 customJS = []
@@ -126,15 +124,8 @@ url = "https://pgp.tayari.gg"
 [[params.social]]
 name = "email"
 url = "mailto:daylam@tayari.gg"
-[[params.social]]
-name = "kofi"
-url = "https://ko-fi.com/tayari"
 # Menu
 [menu]
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "projects/"
 [[menu.main]]
 identifier = "writeups"
 name = "Writeups"
