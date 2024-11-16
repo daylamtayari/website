@@ -42,9 +42,7 @@ writeups = "/writeups/:section/:slug"
 articles = "/articles/:section/:slug"
 guides = "/guides/:section/:slug"
 talks = "/talks/:slug"
-
-[author]
-name = "Daylam Tayari"
+writeups = "/writeups/:section/:slug"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -89,6 +87,8 @@ defaultTheme = "dark"
 # Miscellaneous:
 disableReadOtherPosts = false
 enableSharingButtons = false
+[params.author]
+name = "Daylam Tayari"
 [params.footer]
 trademark = true
 author = true
