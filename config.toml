@@ -13,7 +13,7 @@ disable404 = false
 disableHugoGeneratorInject = false
 
 # Theme Options:
-theme = 'hello-abyss'
+theme = 'hello-friend-ng'
 
 # Content Limit:
 paginate = 10
