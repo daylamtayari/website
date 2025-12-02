@@ -16,7 +16,7 @@ disableHugoGeneratorInject = false
 theme = 'hello-friend-ng'
 
 # Content Limit:
-paginate = 10
+pagination.pagerSize = 10
 rssLimit = 25
 
 # Copyright:
