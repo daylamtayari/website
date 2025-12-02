@@ -1,5 +1,5 @@
 # Global Options:
-title = 'Tayari'
+title = 'Daylam Tayari'
 languageCode = 'en-us'
 baseURL = 'https://tayari.gg/'
 canonifyURLs = true
@@ -70,11 +70,11 @@ dateformShort = "Jan 2 06"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02T15:04:05-0700"
 # Metadata:
-description = "Daylam Tayari :: Security | Linux"
+description = "Daylam Tayari :: Security | Developer | Linux"
 keywords = ""
 images = [""]
 # Home page content:
-homeSubtitle = "Security | Linux"
+homeSubtitle = "Security | Developer | Linux"
 # External Content:
 customCSS = []
 customJS = []
@@ -123,10 +123,6 @@ name = "email"
 url = "mailto:daylam@tayari.gg"
 # Menu
 [menu]
-[[menu.main]]
-identifier = "writeups"
-name = "Writeups"
-url = "writeups/"
 [[menu.main]]
 identifier = "articles"
 name = "Articles"
