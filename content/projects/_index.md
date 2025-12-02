@@ -1,4 +1,4 @@
 ---
 title: "Projects"
-description: "Tayari's projects"
+description: "Daylam Tayari's projects"
 ---
