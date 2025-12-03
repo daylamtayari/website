@@ -50,6 +50,9 @@ categories = "categories"
 tags = "tags"
 pieces = "pieces"
 
+[frontmatter]
+   lastmod = ['lastmod']
+
 # Markup:
 [markup]
 [markup.goldmark]

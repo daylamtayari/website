@@ -32,7 +32,9 @@
                 </aside>
                 <hr />
             {{ end }}
-            <p title="{{ .Date.Format .Site.Params.DateformNumTime }}">Published: {{ .Date | time.Format ":date_long" }}</p> 
+            {{ if .Date }}
+                <p title="{{ .Date.Format .Site.Params.DateformNumTime }}">Published: {{ .Date | time.Format ":date_long" }}</p> 
+            {{ end }}
             {{ if .Lastmod }}
                 <p title="{{ .Lastmod.Format .Site.Params.DateformNumTime }}">Last Updated: {{ .Lastmod | time.Format ":date_long" }}</p>
             {{ end }}
