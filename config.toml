@@ -70,11 +70,11 @@ dateformShort = "Jan 2 2006"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02T15:04:05-0700"
 # Metadata:
-description = "Daylam Tayari :: Security | Developer | Linux"
+description = "Daylam Tayari :: Security | Coding | Linux"
 keywords = ""
 images = [""]
 # Home page content:
-homeSubtitle = "Security | Developer | Linux"
+homeSubtitle = "Security | Coding | Linux"
 # External Content:
 customCSS = []
 customJS = []
