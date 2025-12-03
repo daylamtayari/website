@@ -79,7 +79,7 @@ images = [""]
 # Home page content:
 homeSubtitle = "Security | Coding | Linux"
 # External Content:
-customCSS = []
+customCSS = ["/css/projects.css"]
 customJS = []
 justifyContent = true
 # Theme:
@@ -134,6 +134,10 @@ url = "articles/"
 identifier = "guides"
 name = "Guides"
 url = "guides/"
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "projects/"
 [[menu.main]]
 identifier = "talks"
 name = "Talks"

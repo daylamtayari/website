@@ -1,0 +1,178 @@
+/* Projects page container styling */
+main.projects-page {
+    max-width: 1400px;
+    width: 100%;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+main.projects-page h1 {
+    margin-bottom: 2rem;
+}
+
+/* Projects Grid Layout - 3 columns max */
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    margin-top: 2rem;
+    padding: 0;
+    list-style: none;
+}
+
+/* Responsive: 2 columns on tablets */
+@media (max-width: 1100px) {
+    .projects-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Responsive: 1 column on mobile */
+@media (max-width: 768px) {
+    main.projects-page {
+        padding: 15px;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
+
+/* Project Card */
+.project-card {
+    background: var(--background);
+    border: 1px solid var(--border-color, #e1e4e8);
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    list-style: none;
+    margin-bottom: 0;
+}
+
+.project-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark theme support */
+[data-theme="dark"] .project-card {
+    border-color: #8b949e;
+}
+
+[data-theme="dark"] .project-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Project Card Header */
+.project-card-header {
+    margin-bottom: 1rem;
+}
+
+.project-title {
+    margin: 0;
+    font-size: 1.5rem;
+    line-height: 1.3;
+    justify-content: center;
+}
+
+.project-title a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.project-title a:hover {
+    color: #ff8c00;
+}
+
+/* Project Card Body */
+.project-card-body {
+    flex: 1;
+    margin-bottom: 1rem;
+}
+
+.project-description {
+    color: var(--color, #586069);
+    line-height: 1.6;
+    margin: 0 0 1rem 0;
+}
+
+[data-theme="dark"] .project-description {
+    color: #8b949e;
+}
+
+/* Technology Tags */
+.project-technologies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.tech-tag {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: #fff3e0;
+    color: #ff8c00;
+    border-radius: 12px;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+[data-theme="dark"] .tech-tag {
+    background: rgba(255, 165, 0, 0.15);
+    color: #ffa500;
+}
+
+/* Project Card Footer */
+.project-card-footer {
+    padding-top: 1rem;
+    border-top: 1px solid var(--border-color, #e1e4e8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+}
+
+[data-theme="dark"] .project-card-footer {
+    border-top-color: #30363d;
+}
+
+.project-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #ffa500;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.project-link:hover {
+    color: #ff8c00;
+}
+
+.project-link svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* Split footer layout when both repository and website exist */
+.project-link-split {
+    flex: 1;
+    justify-content: center;
+    padding: 0 1rem;
+}
+
+.project-link-divider {
+    width: 1px;
+    align-self: stretch;
+    background: var(--border-color, #e1e4e8);
+}
+
+[data-theme="dark"] .project-link-divider {
+    background: #30363d;
+}

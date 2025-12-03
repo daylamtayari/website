@@ -1,0 +1,69 @@
+{{ define "main" }}
+<main class="projects-page">
+    <h1>{{ .Title }}</h1>
+
+    {{ if .Content }}
+    <div class="content">{{ .Content }}</div>
+    {{ end }}
+
+    {{ if eq .RegularPagesRecursive nil }}
+    <div style="text-align: center;">
+        <p>
+        {{ partial "svg.html" (dict "name" "partly-clouddy") }}
+        </p>
+        <p style="font-size: xx-large;">Stay tuned!<br/>Projects are coming soon!</p>
+    </div>
+    {{ end }}
+
+    <div class="projects-grid">
+        {{ range .Pages }}
+        <div class="project-card">
+            <div class="project-card-header">
+                <h2 class="project-title">
+                    {{ if .Params.repository }}
+                    <a href="{{ .Params.repository }}" target="_blank" rel="noopener noreferrer">
+                        {{ .Title }}
+                    </a>
+                    {{ else }}
+                    {{ .Title }}
+                    {{ end }}
+                </h2>
+            </div>
+            <div class="project-card-body">
+                <p class="project-description">{{ .Summary }}</p>
+                {{ if .Params.technologies }}
+                <div class="project-technologies">
+                    {{ range .Params.technologies }}
+                    <span class="tech-tag">{{ . }}</span>
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+            <div class="project-card-footer">
+                {{ if and .Params.repository .Params.website }}
+                <a href="{{ .Params.repository }}" class="project-link project-link-split" target="_blank" rel="noopener noreferrer">
+                    {{ partial "svg.html" (dict "name" "github") }}
+                    <span>Repository</span>
+                </a>
+                <div class="project-link-divider"></div>
+                <a href="{{ .Params.website }}" class="project-link project-link-split" target="_blank" rel="noopener noreferrer">
+                    {{ partial "svg.html" (dict "name" "globe") }}
+                    <span>Website</span>
+                </a>
+                {{ else if .Params.repository }}
+                <a href="{{ .Params.repository }}" class="project-link" target="_blank" rel="noopener noreferrer">
+                    {{ partial "svg.html" (dict "name" "github") }}
+                    <span>Repository</span>
+                </a>
+                {{ else if .Params.website }}
+                <a href="{{ .Params.website }}" class="project-link" target="_blank" rel="noopener noreferrer">
+                    {{ partial "svg.html" (dict "name" "globe") }}
+                    <span>Website</span>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</main>
+{{ end }}
