@@ -3,7 +3,6 @@ title: "Qubes OS - A Technical Introduction"
 description: Slides of a talk I gave on Qubes OS, detailing its unique architecture, features and uses for the ASULUG.
 slug: qubes-technical-introduction
 date: 2022-02-08T00:52:32-07:00
-publishDate: .Date
 draft: false
 toc: false
 images:
