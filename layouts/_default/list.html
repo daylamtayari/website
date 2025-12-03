@@ -28,9 +28,9 @@
                     <span class="post-title" style="font-size: x-large;">{{.Title}}</span>
                     <span class="post-day" style="font-size: large;">
                         {{ if .Site.Params.dateform }}
-                        {{ .Date.Format .Site.Params.dateform }}
+                        {{ .Date.Format .Site.Params.dateformShort }}
                         {{ else }}
-                        {{ .Date.Format "January 2 2006"}}
+                        {{ .Date.Format "Jan 2 2006"}}
                         {{ end }}
                     </span>
                 </a>
