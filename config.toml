@@ -37,10 +37,10 @@ buildExpired = false
 # Attributes:
 
 [permalinks]
-articles = "/articles/:section/:slug"
-guides = "/guides/:section/:slug"
+articles = "/articles/:slug"
+guides = "/guides/:slug"
 talks = "/talks/:slug"
-writeups = "/writeups/:section/:slug"
+writeups = "/writeups/:slug"
 
 [blackfriday]
 hrefTargetBlank = true
