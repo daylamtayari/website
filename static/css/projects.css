@@ -1,7 +1,7 @@
 /* Projects page container styling */
 main.projects-page {
-    max-width: 1400px;
-    width: 100%;
+    max-width: 1600px;
+    width: 80%;
     padding: 20px;
     margin: 20px auto;
 }
@@ -21,7 +21,7 @@ main.projects-page h1 {
 }
 
 /* Responsive: 2 columns on tablets */
-@media (max-width: 1100px) {
+@media (max-width: 1300px) {
     .projects-grid {
         grid-template-columns: repeat(2, 1fr);
     }

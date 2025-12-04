@@ -82,6 +82,7 @@ homeSubtitle = "Security | Coding | Linux"
 customCSS = [
     "/css/_menu.css",
     "/css/_list.css",
+    "/css/_single.css",
     "/css/projects.css"
 ]
 customJS = []
