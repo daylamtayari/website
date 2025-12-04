@@ -79,7 +79,10 @@ images = [""]
 # Home page content:
 homeSubtitle = "Security | Coding | Linux"
 # External Content:
-customCSS = ["/css/projects.css"]
+customCSS = [
+    "/css/_menu.css",
+    "/css/projects.css"
+]
 customJS = []
 justifyContent = true
 # Theme:
