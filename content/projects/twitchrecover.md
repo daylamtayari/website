@@ -5,7 +5,7 @@ draft: false
 toc: false
 weight: 25
 repository: https://github.com/TwitchRecover/TwitchRecover
-technologies: ["Java", "Reverse Engineering"]
+technologies: ["Java", "GraphQL", "Reverse Engineering"]
 tags:
 ---
 
