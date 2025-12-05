@@ -125,7 +125,7 @@ url = "https://github.com/daylamtayari"
 name = "linkedin"
 url = "https://linkedin.com/in/daylamtayari"
 [[params.social]]
-name = "gpg"
+name = "lock"
 url = "https://pgp.tayari.gg"
 [[params.social]]
 name = "email"
