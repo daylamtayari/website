@@ -1,0 +1,13 @@
+.post-item {
+    a {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        padding: 12px 0;
+        text-decoration: none;
+
+        &:hover {
+            color: #ff8c00;
+        }
+    }
+}
