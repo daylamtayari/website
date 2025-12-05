@@ -1,11 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description:
-slug: .Name
 date: {{ .Date }}
 draft: true
 toc: false
-images:
+weight: 00
+repository: "https://github.com/daylamtayari/example
+technologies: ["Go", "AWS", "PostgreSQL"]
 tags:
-type:
 ---
