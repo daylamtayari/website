@@ -20,7 +20,11 @@
         <div class="project-card">
             <div class="project-card-header">
                 <h2 class="project-title">
-                    {{ if .Params.repository }}
+                    {{ if .Params.website }}
+                    <a href="{{ .Params.website }}" target="_blank" rel="noopener noreferrer">
+                        {{ .Title }}
+                    </a>
+                    {{ else if .Params.repository }}
                     <a href="{{ .Params.repository }}" target="_blank" rel="noopener noreferrer">
                         {{ .Title }}
                     </a>
