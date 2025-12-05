@@ -16,6 +16,8 @@ I am also passionate about Linux, personally daily driving Qubes and Arch across
 
 Whenever I am able to, I attend local infosec meetups so if you ever want to chat, you can expect me to see me there.
 
+Away from the keyboard, I am an avid runner and triathlete, competing primarily in longer distances such as Ironmans, marathons, as well as olympic distance triathlons.
+
 This site contains a compilation of my projects, talks, guides, as well as articles I have written.
 
 **You can find the latest iteration of my resume at: [https://resume.tayari.gg](https://resume.tayari.gg)**
