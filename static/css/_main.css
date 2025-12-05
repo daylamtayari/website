@@ -1,4 +1,4 @@
-a {
+a:not(:has(.logo)) {
     &:hover {
         color: #ff8c00;
     }
