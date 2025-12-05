@@ -1,4 +1,4 @@
 ---
 title: "Guides"
-description: "Tayari's guides"
+description: "Daylam Tayari's guides"
 ---

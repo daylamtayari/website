@@ -1,13 +1,12 @@
 ---
-title: "Nmap2Tex 0.1 Release"
-description: "Release 0.1 of Nmap2Tex, an Nmap to LaTeX converter and formatter."
-slug: nmap2tex-0.1-release
+title: "Nmap2Tex Release"
+description: "Releasing Nmap2Tex, an Nmap to LaTeX converter and formatter."
+slug: nmap2tex-release
 date: 2022-01-30T22:34:40-07:00
 draft: false
 toc: false
 images:
 tags: ['project', 'nmap2tex', 'nmap', 'lateX']
-type:
 ---
 
 ## Introduction
@@ -27,9 +26,7 @@ Since Nmap has an option to output into XML and due to my fondness for LaTeX, I 
 This is the result of that, here releasing version 0.1 which contains full support for Nmap network scan and vulnerability scan conversions among other things.<br/>
 Version 0.1 is the initial version of the program and it's version number will continue to increase until I release version 1.0 when I am satisfied with the project and it's state.<br/>
 <br/>
-**To download the release:**
-- [git.tayari.gg](https://git.tayari.gg/tayari/nmap2tex/-/releases#v0.1)
-- [GitHub Mirror](https://github.com/daylamtayari/Nmap2Tex/releases/tag/v0.1)
+**To download the release:** [GitHub](https://github.com/daylamtayari/Nmap2Tex/releases/tag/v0.1)
 
 <br/>
 
@@ -50,7 +47,7 @@ The features that are currently supported in release 0.1 of Nmap2Tex are:
 
 <br/>
 I had more ideas for features to implement in the near future such as extended vulnerability reports but as the Western CCDC regional qualifiers were shortly upcoming, I decided to polish it's iteration and then after testing it, release it as 0.1 to be able to utilise it for the competition and also be able to share it with my teammates to allow whoever the person to be assigned the network inventory inject is able to just deploy it on their machine and use the tool.<br/>
-I go in greater details on the planned upcomign fetures in the <a href="#roadmap">roadmap</a> section down below.
+I go in greater details on the planned upcoming features in the <a href="#roadmap">roadmap</a> section down below.
 
 
 ## Program Design
@@ -113,11 +110,7 @@ If you find any issues or have any recommendations, please create an issue on th
 Thank you very much and I truly hope that this tool has being able to be useful!
 
 
-### Repositories:
-- [git.tayari.gg/tayari/Nmap2Tex](https://git.tayari.gg/tayari/nmap2tex)
+### Repository
 - [GitHub.com/daylamtayari/Nmap2Tex](https://github.com/daylamtayari/Nmap2Tex)
 
 <br/>
-If you would like to help support me financially, any tips are greatly appreciated and absolutely not necessary.<br/>
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6AA059)

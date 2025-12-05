@@ -1,5 +1,5 @@
 # Global Options:
-title = 'Tayari'
+title = 'Daylam Tayari'
 languageCode = 'en-us'
 baseURL = 'https://tayari.gg/'
 canonifyURLs = true
@@ -13,10 +13,10 @@ disable404 = false
 disableHugoGeneratorInject = false
 
 # Theme Options:
-theme = 'hello-abyss'
+theme = 'hello-friend-ng'
 
 # Content Limit:
-paginate = 10
+pagination.pagerSize = 10
 rssLimit = 25
 
 # Copyright:
@@ -37,14 +37,10 @@ buildExpired = false
 # Attributes:
 
 [permalinks]
-projects = "/projects/:section/:slug/"
-writeups = "/writeups/:section/:slug"
-articles = "/articles/:section/:slug"
-guides = "/guides/:section/:slug"
+articles = "/articles/:slug"
+guides = "/guides/:slug"
 talks = "/talks/:slug"
-
-[author]
-name = "Daylam Tayari"
+writeups = "/writeups/:slug"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -53,6 +49,9 @@ hrefTargetBlank = true
 categories = "categories"
 tags = "tags"
 pieces = "pieces"
+
+[frontmatter]
+   lastmod = ['lastmod']
 
 # Markup:
 [markup]
@@ -70,17 +69,23 @@ unsafe=true
 
 [params]
 dateform = "January 2 2006"
-dateformShort = "Jan 2 06"
+dateformShort = "Jan 2 2006"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02T15:04:05-0700"
 # Metadata:
-description = "Daylam Tayari's website with everything from articles to guides, writeups and talks on anything from cybersecurity to Linux and digital rights."
+description = "Daylam Tayari :: Security | Coding | Linux"
 keywords = ""
 images = [""]
 # Home page content:
-homeSubtitle = "Security | Linux | Privacy"
+homeSubtitle = "Security | Coding | Linux"
 # External Content:
-customCSS = []
+customCSS = [
+    "/css/_main.css",
+    "/css/_menu.css",
+    "/css/_list.css",
+    "/css/_single.css",
+    "/css/projects.css"
+]
 customJS = []
 justifyContent = true
 # Theme:
@@ -89,6 +94,8 @@ defaultTheme = "dark"
 # Miscellaneous:
 disableReadOtherPosts = false
 enableSharingButtons = false
+[params.author]
+name = "Daylam Tayari"
 [params.footer]
 trademark = true
 author = true
@@ -112,33 +119,19 @@ logoCursorColor = "#aaaaaa"
 name = "resume"
 url = "https://resume.tayari.gg"
 [[params.social]]
-name = "gitlab"
-url = "https://git.tayari.gg/tayari"
-[[params.social]]
 name = "github"
 url = "https://github.com/daylamtayari"
 [[params.social]]
-name = "twitter"
-url = "https://twitter.com/tayarics"
+name = "linkedin"
+url = "https://linkedin.com/in/daylamtayari"
 [[params.social]]
-name = "gpg"
+name = "lock"
 url = "https://pgp.tayari.gg"
 [[params.social]]
 name = "email"
 url = "mailto:daylam@tayari.gg"
-[[params.social]]
-name = "kofi"
-url = "https://ko-fi.com/tayari"
 # Menu
 [menu]
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "projects/"
-[[menu.main]]
-identifier = "writeups"
-name = "Writeups"
-url = "writeups/"
 [[menu.main]]
 identifier = "articles"
 name = "Articles"
@@ -147,6 +140,10 @@ url = "articles/"
 identifier = "guides"
 name = "Guides"
 url = "guides/"
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "projects/"
 [[menu.main]]
 identifier = "talks"
 name = "Talks"

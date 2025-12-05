@@ -1,4 +1,4 @@
 ---
 title: "Articles"
-description: "Tayari's articles"
+description: "Daylam Tayari's articles"
 ---

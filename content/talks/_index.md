@@ -1,4 +1,4 @@
 ---
 title: "Talks"
-description: "Tayari's talks and presentations"
+description: "Daylam Tayari's talks and presentations"
 ---
