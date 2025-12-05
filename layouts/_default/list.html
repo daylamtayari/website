@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ $paginator := .Paginate .Data.Pages }}
 
+<div class="content">
 <main class="posts">
     <h1>{{ .Title }}</h1>
 
@@ -41,4 +42,5 @@
     {{ end }}
     {{ partial "pagination-list.html" . }}
 </main>
+</div>
 {{ end }}
