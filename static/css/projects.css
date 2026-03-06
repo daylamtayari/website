@@ -12,8 +12,9 @@ main.projects-page h1 {
 
 /* Projects Grid Layout - 3 columns max */
 .projects-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap: 2rem;
     margin-top: 2rem;
     padding: 0;
@@ -22,8 +23,8 @@ main.projects-page h1 {
 
 /* Responsive: 2 columns on tablets */
 @media (max-width: 1300px) {
-    .projects-grid {
-        grid-template-columns: repeat(2, 1fr);
+    .project-card {
+        width: calc((100% - 2rem) / 2);
     }
 }
 
@@ -34,13 +35,17 @@ main.projects-page h1 {
     }
 
     .projects-grid {
-        grid-template-columns: 1fr;
         gap: 1.5rem;
+    }
+
+    .project-card {
+        width: 100%;
     }
 }
 
 /* Project Card */
 .project-card {
+    width: calc((100% - 4rem) / 3);
     background: var(--background);
     border: 1px solid var(--border-color, #e1e4e8);
     border-radius: 8px;
@@ -48,7 +53,6 @@ main.projects-page h1 {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     display: flex;
     flex-direction: column;
-    height: 100%;
     list-style: none;
     margin-bottom: 0;
 }
